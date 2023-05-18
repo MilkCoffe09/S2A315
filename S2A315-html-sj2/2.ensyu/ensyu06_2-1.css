@@ -1,0 +1,44 @@
+header {
+  background-color: rgb(25, 25, 92);
+  height: 100px;
+}
+nav {
+  background-color: rgb(117, 117, 20);
+  float: left;
+  width: 30%;
+  height: 200px;
+}
+#art {
+  background-color: rgb(92, 55, 55);
+  float: right;
+  width: 70%;
+  height: 200px;
+}
+footer {
+  clear: both;
+  background-color: gray;
+  height: 50px;
+}
+#art2 {
+  background-color: rgb(37, 150, 37);
+  float: right;
+  width: 70%;
+  height: 200px;
+}
+a:link {
+  color: rgb(211, 30, 157);
+}
+div {
+  border: 2px solid #971515;
+  width: 300px;
+  height: 100px;
+}
+.btn {
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-weight: bold;
+  padding: 5px 16px;
+  margin: 5px;
+  border: 1px dashed #a01b1b;
+}
