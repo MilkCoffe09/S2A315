@@ -1,0 +1,21 @@
+p {
+  color: #333;
+}
+.art {
+  background-color: #f7f7f7;
+}
+.btn {
+  border: solid;
+  opacity: 0.6;
+}
+h1 {
+  font-family: Hiragino Sans, 'Times New Roman', Times, serif;
+}
+.pagetop{
+  background-color: #4c4c4c;
+  color: #fff;
+}
+.futter{
+  background-color: #333;
+  color: #797979;
+}
