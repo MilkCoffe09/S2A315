@@ -335,6 +335,23 @@ About
   justify-content: center;
   align-items: center;
 }
+.bow-row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.bow-row img{
+  height: 600px;
+  width: 600px;
+  border-radius: 5px;
+}
+@media screen and (max-width:780%){
+  .box-row{
+    flex-direction: column;
+    text-align: center;
+  }
+}
 
 .table {
   width: 60%;
